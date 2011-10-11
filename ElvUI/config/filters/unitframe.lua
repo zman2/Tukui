@@ -252,6 +252,7 @@ E.RaidDebuffs = {
 --Firelands	
 	--Beth'tilac
 	[SpellName(99506)] = true, -- Widows Kiss
+	[SpellName(100048)] = true, -- Fiery Web Silk
 	
 	--Alysrazor
 	[SpellName(101296)] = true, -- Fiero Blast
@@ -260,6 +261,7 @@ E.RaidDebuffs = {
 	--Shannox
 	[SpellName(99837)] = true, -- Crystal Prison
 	[SpellName(99937)] = true, -- Jagged Tear
+	[SpellName(99947)] = true, -- Face Rage
 	
 	--Baleroc
 	[SpellName(99403)] = true, -- Tormented
@@ -274,6 +276,8 @@ E.RaidDebuffs = {
 	
 	--Ragnaros
 	[SpellName(99399)] = true, -- Burning Wound
+	[SpellName(100460)] = true, -- Blazing Heat
+	[SpellName(100757)] = true, -- Deluge
 		
 	--Trash
 	[SpellName(99532)] = true, -- Melt Armor	
